@@ -1,4 +1,12 @@
 {
 "name": "@stiles69/version-it",
-"version": "1.0.0"
+"version": "1.0.0",
+"description": "Adds a version number to variable.",
+"license": "MIT",
+"respository": "stiles69/version-it",
+"main": "index.js",
+"keywords": [
+	"version",
+	"webpack"
+]	
 }
