@@ -4,9 +4,9 @@
 		
 **version-it**
 
-# Install #
+**Install**
 
-**$ npm install @stiles69/version-it**
+*$ npm install @stiles69/version-it*
 
 
 
